@@ -1,5 +1,3 @@
 # Git Advanced Exercises
 
-## Part 1
-
-### Challenge 1
+The link to the solution https://github.com/Gihozo23/git-advanced-exercises-solutions.git 
