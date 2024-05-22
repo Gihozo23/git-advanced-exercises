@@ -1,1 +1,2 @@
 this file was created in ft/new-feature
+This line will serve to generate conflict from the improved-branch
