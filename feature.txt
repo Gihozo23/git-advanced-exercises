@@ -1,2 +1,3 @@
 this file was created in ft/new-feature
 This line of code will be for stashing some changes
+This line will serve to generate conflict from the improved-branch
